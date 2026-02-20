@@ -10,4 +10,6 @@ farming ✅
 > don't misuse it‼️
 
 ## HOW TO USE IT?
-> loadstring(game:HttpGet("https://raw.githubusercontent.com/BroddyDumpcode/MyProject/refs/heads/main/sc.lua", True))()
+'''
+loadstring(game:HttpGet("https://raw.githubusercontent.com/BroddyDumpcode/MyProject/refs/heads/main/sc.lua", True))()
+'''
