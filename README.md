@@ -14,4 +14,4 @@ farming ✅
 loadstring(game:HttpGet("https://raw.githubusercontent.com/BroddyDumpcode/MyProject/refs/heads/main/sc.lua", True))()
 ```
 [GIVE ME A COFFEE:)](https://saweria.co/BroddyCode)
-<a href="[https://saweria.co/BroddyCode]" target="_blank">Give me a coffee</a>
+<a href="https://saweria.co/BroddyCode" target="_blank">Give me a coffee</a>
